@@ -76,6 +76,5 @@ bla = Container()
 # bla.add(56)
 # bla.add(13)
 # print(bla)
-# print(bla.get_median())
-
 print(bla.get_median())
+
